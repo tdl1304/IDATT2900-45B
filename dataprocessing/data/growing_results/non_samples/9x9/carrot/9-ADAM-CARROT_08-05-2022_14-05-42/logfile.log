@@ -1,0 +1,13 @@
+INFO:root:
+Arguments:
+img: '🥕'
+size: 9
+logdir: 'interactive_CA/logs/9-ADAM-CARROT_08-05-2022_14-05-42'
+load_model_path: 'final_models\\Adam\\NonSamplePools\\9-CARROT-train_05-05-2022_17-55-17\\models\\model_19500.pt'
+n_channels: 16
+hidden_size: 32
+fire_rate: 0.5
+es: False
+eps: 0.007
+emoji_size: 9
+

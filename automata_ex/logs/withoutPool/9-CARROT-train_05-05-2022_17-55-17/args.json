@@ -1,0 +1,17 @@
+{
+    "img": "\ud83e\udd55",
+    "batch_size": 8,
+    "device": "cpu",
+    "eval_frequency": 500,
+    "eval_iterations": 300,
+    "n_batches": 20000,
+    "n_channels": 16,
+    "logdir": "logs/9-CARROT-train_05-05-2022_17-55-17",
+    "padding": 0,
+    "pool_size": 1024,
+    "size": 9,
+    "hidden_channels": 32,
+    "pool": false,
+    "th": 0.0,
+    "mode": "train"
+}

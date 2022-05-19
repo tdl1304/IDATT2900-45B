@@ -1,0 +1,22 @@
+INFO:root:
+Arguments:
+mode: 'train'
+population_size: 40
+n_iterations: 2000000
+pool_size: 1024
+batch_size: 1
+eval_freq: 1000
+n_channels: 16
+hidden_size: 32
+fire_rate: 0.5
+lr: 0.005
+sigma: 0.01
+img: '🥕'
+size: 15
+padding: 0
+logdir: 'logg/CARROT-train_29-04-2022_11-18-06'
+load_model_path: ''
+
+INFO:root:Starting training
+INFO:root:Fitness higher than than -0.050, lr set to 0.00150 (*0.30)
+INFO:root:Fitness higher than -0.020, lr set to 0.00075 (*0.50)

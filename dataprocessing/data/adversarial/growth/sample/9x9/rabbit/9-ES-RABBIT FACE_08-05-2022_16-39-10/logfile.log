@@ -1,0 +1,13 @@
+INFO:root:
+Arguments:
+img: '🐰'
+size: 9
+logdir: 'interactive_CA/logs/9-ES-RABBIT FACE_08-05-2022_16-39-10'
+load_model_path: 'final_models\\ES\\SamplePools\\9-RABBIT-FACE-train_01-05-2022_10-32-24\\models\\model_1157000'
+n_channels: 16
+hidden_size: 32
+fire_rate: 0.5
+es: True
+eps: 7e-07
+emoji_size: 9
+

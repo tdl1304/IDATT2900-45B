@@ -1,0 +1,17 @@
+INFO:root:
+Arguments:
+mode: 2
+n_iterations: 1000
+batch_size: 1
+n_channels: 16
+dmg_freq: 51
+max_dmg_freq: 5
+sigma: 0.2
+alpha: 0.005
+padding: 0
+eps: 0.07
+img: '🥕'
+size: 15
+logdir: 'logs/CARROT_29-04-2022_14-42-09_mode2'
+load_model_path: 'models/model_999500'
+

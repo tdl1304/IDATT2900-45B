@@ -1,0 +1,13 @@
+INFO:root:
+Arguments:
+img: '🥕'
+size: 9
+logdir: 'interactive_CA/logs/9-ES-CARROT_08-05-2022_16-54-34'
+load_model_path: 'final_models\\ES\\NonSamplePools\\9-CARROT-train_05-05-2022_09-14-06\\models\\model_2212000'
+n_channels: 16
+hidden_size: 32
+fire_rate: 0.5
+es: True
+eps: 0.007
+emoji_size: 9
+

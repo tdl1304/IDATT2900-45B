@@ -1,0 +1,1 @@
+python train.py -p 0 -n 10000 -s 9 -hch 32 -pool=true -th 0
